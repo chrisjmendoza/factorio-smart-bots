@@ -1,0 +1,11 @@
+{
+    "name": "SmartBots",
+    "version": "0.1.1",
+    "factorio_version": "2.1",
+    "dependencies": [ "base >= 2.1.7", "? space-age" ],
+    "title": "Smarter Bot Charging",
+    "author": "chrisjmendoza",
+    "contact": "chrisjmendoza@gmail.com",
+    "homepage": "",
+    "description": "Roboports get more charging pads, and lend their buffered energy to robots still queued for one. Bots spend their time flying instead of waiting in line."
+}

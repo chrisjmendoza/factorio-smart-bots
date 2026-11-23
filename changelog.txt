@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2026-11-22
+  Changes:
+    - Updated for Factorio 2.1. The 2.0 build is 0.1.0.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2026-09-08
+  Features:
+    - Roboports have 8 charging pads instead of 4, laid out as an even ring, and charge at twice the power.
+    - Robots carry a larger battery and spend less energy flying, so they need fewer charges to begin with.
+    - A roboport whose pads are all busy lends its buffered energy directly to the robots queued behind them.
+    - A congested roboport that reaches its energy reserve can borrow from the roboports it connects to.
+    - Optional overlay showing how many robots are waiting to charge above each congested roboport.
+    - Every number is a mod setting; the lending behaviour can be switched off to leave charging to the base game.
